@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dulsha Hemini</h1>
-<h3 align="center">BICT Undergraduate | Aspiring Software Engineer | Web Developer from Sri Lanka</h3>
+<h3 align="center">BICT Undergraduate Student @University Of Ruhuna</h3>3>
 
 <img align="right" alt="Coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -9,7 +9,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 📚 Studying **Bachelor of Information and Communication Technology (BICT)**
 - 💻 Interested in **Software Engineering & Full Stack Development**
 - 🌱 Currently learning **Java, Python, JavaScript, PHP, MySQL, MERN Stack**
-- 🔭 Working on **Disaster Response Coordination System (DRCS)**
+- 🔭 Working on **LabEx**
 - 🎯 Goal: Become a **Software Engineer**
 - 📖 Improving my **English and Problem Solving Skills**
 - ⚡ Fun fact: I love **coding, technology, Marvel/DC movies, and creating content**
