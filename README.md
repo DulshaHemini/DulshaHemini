@@ -6,7 +6,7 @@ BICT (Hons) Undergraduate @ University of Ruhuna | Aspiring Software Engineer
 
 <p align="center">
   <img alt="Dulsha Hemini presenting at university"
-       width="450"
+       width="850"
        src="./assets/presentation.jpeg">
 </p>
  👩‍💻 About Me
